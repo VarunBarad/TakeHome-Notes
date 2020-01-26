@@ -1,6 +1,6 @@
 # Take Home - Notes
 
-This application is created as part of a take-home assignment for a company. Spec document can be found [here](./Take Home Exercise - Note taking app.pdf)
+This application is created as part of a take-home assignment for a company. Spec document can be found [here](https://github.com/VarunBarad/TakeHome-Notes/raw/master/Take%20Home%20Exercise%20-%20Note%20taking%20app.pdf)
 
 ## Running the application
 
