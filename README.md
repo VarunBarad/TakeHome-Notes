@@ -34,12 +34,12 @@ After it finishes, you can find the results of the test in this directory: `<pro
 
 ## Screenshots
 
-![Home Screen - No Notes](./screenshots/01 Home Screen - No Notes.png)
+![Home Screen - No Notes](https://github.com/VarunBarad/TakeHome-Notes/raw/master/screenshots/01%20Home%20Screen%20-%20No%20Notes.png)
 
-![Home Screen - With Notes](./screenshots/02 Home Screen - With Notes.png)
+![Home Screen - With Notes](https://github.com/VarunBarad/TakeHome-Notes/raw/master/screenshots/02%20Home%20Screen%20-%20With%20Notes.png)
 
-![Create Note Screen - Empty](./screenshots/03 Create Note Screen - Empty.png)
+![Create Note Screen - Empty](https://github.com/VarunBarad/TakeHome-Notes/raw/master/screenshots/03%20Create%20Note%20Screen%20-%20Empty.png)
 
-![Create Note Screen - Filled](./screenshots/04 Create Note Screen - Filled.png)
+![Create Note Screen - Filled](https://github.com/VarunBarad/TakeHome-Notes/raw/master/screenshots/04%20Create%20Note%20Screen%20-%20Filled.png)
 
-![Note Details Screen](./screenshots/05 Note Details Screen.png)
+![Note Details Screen](https://github.com/VarunBarad/TakeHome-Notes/raw/master/screenshots/05%20Note%20Details%20Screen.png)
